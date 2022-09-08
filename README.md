@@ -11,4 +11,4 @@ HasCrCard—denotes whether or not a customer has a credit card. This column is 
 IsActiveMember—active customers are less likely to leave the bank.
 EstimatedSalary—as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
 Exited—whether or not the customer left the bank.
-# analysis this data to know who Exited and whay
+# analysis this data to know who Exited and why
